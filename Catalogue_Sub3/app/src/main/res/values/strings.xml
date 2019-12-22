@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoTv Catalogue</string>
+    <string name="loading">Loading</string>
+    <string name="img_poster_contentdesc">Poster of a tv or movie</string>
+    <string name="movie_title">Movies</string>
+    <string name="tv_title">TV Shows</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="arrow_up_contentdesc">Collapse the App Bar</string>
+    <string name="home_title">Home</string>
+    <string name="favorite_title">Favorite</string>
+    <string name="no_result">"I\'m sorry…The Content is empty"</string>
+    <string name="added_favorite">Added Into Favorite!</string>
+    <string name="deleted_favorite">Deleted from Favorite!</string>
+</resources>
